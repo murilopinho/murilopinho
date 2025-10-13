@@ -3,8 +3,8 @@
 ![](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murilopinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)
