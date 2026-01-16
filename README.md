@@ -1,46 +1,70 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header)
+# 👋 Olá, eu sou o Murilo Pinho
 
-![](https://git.io/typing-svg)
+🎯 **Quality Assurance (QA) | Analista de Testes**  
+📚 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+🧪 Foco em **Qualidade de Software, Testes Manuais, BDD e Automação**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murilopinho&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilopinho&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
-</div>
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15)
+## 🚀 Sobre mim
 
-<div align="center">
-  <img src="https://www.instagram.com/alv4rezz__/" alt="Instagram" />
-</div>
+Sou um profissional em formação na área de tecnologia, com foco em **QA (Quality Assurance)**.  
+Atuo na criação e execução de **casos de teste**, validações funcionais, testes de regressão e documentação clara, sempre buscando garantir a qualidade e a confiabilidade dos sistemas.
 
-### Main skills:
-<div align="center">
+Tenho experiência em ambientes ágeis e sigo evoluindo meus conhecimentos em **automação de testes** e **desenvolvimento**, aplicando boas práticas de QA no dia a dia.
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
-![C#Sharp](https://img.shields.io/badge/-C#Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)
+---
 
-</div>
+## 🧪 Habilidades em QA
 
-### Tools:
-<div align="center">
+- ✔️ Testes Manuais (Funcional, Regressão, Smoke)
+- ✔️ Casos de Teste em **BDD / Gherkin**
+- ✔️ Análise de Requisitos e Regras de Negócio
+- ✔️ Reporte e acompanhamento de bugs
+- ✔️ Testes em aplicações Web e Mobile (Android / iOS)
+- ✔️ Evidências de testes e ciclos de validação
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
-![Microsoft Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)
+---
 
-</div>
+## 🤖 Tecnologias e Ferramentas
 
-### Other Knowledge:
-<div align="center">
+**Linguagens & Ferramentas:**
+- 💻 HTML | CSS | JavaScript
+- 🐍 Python (em aprendizado)
+- 🧪 Cypress (estudos)
+- 🤖 Playwright (estudos)
+- 🌐 Postman (API - básico)
+- 📊 Git | GitHub
+- 📋 Metodologias Ágeis (Scrum / Kanban)
 
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
-![C#Sharp](https://img.shields.io/badge/-C#Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)
+---
 
-</div>
+## 📂 Repositórios
+
+Aqui você encontrará projetos relacionados a:
+- 📌 Casos de teste em **BDD**
+- 📌 Projetos acadêmicos de **ADS**
+- 📌 Estudos de **automação de testes**
+- 📌 Documentação e exemplos de QA
+
+*(Repositórios em constante evolução 🚧)*
+
+---
+
+## 🎯 Objetivos Atuais
+
+- 🚀 Evoluir em **automação de testes**
+- 🧠 Aprofundar conhecimentos em **desenvolvimento**
+- 📈 Atuar profissionalmente como **QA / Test Analyst**
+- 🔥 Criar projetos práticos e bem documentados
+
+---
+
+## 📫 Contato
+
+- 🌐 GitHub: https://github.com/murilopinho
+- 💼 LinkedIn: *(adicione aqui, se desejar)*
+
+---
+
+⭐ *Qualidade, clareza e evolução contínua.*
