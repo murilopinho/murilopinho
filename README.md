@@ -42,10 +42,10 @@ Tenho experiência em ambientes ágeis e sigo evoluindo meus conhecimentos em **
 ## 📂 Repositórios
 
 Aqui você encontrará projetos relacionados a:
-- 📌 Casos de teste em **BDD**
+- 📌 Prejetos **pessoais concluidos/em conclusão**
 - 📌 Projetos acadêmicos de **ADS**
 - 📌 Estudos de **automação de testes**
-- 📌 Documentação e exemplos de QA
+- 📌 Projetos de machine learning
 
 *(Repositórios em constante evolução 🚧)*
 
@@ -56,14 +56,14 @@ Aqui você encontrará projetos relacionados a:
 - 🚀 Evoluir em **automação de testes**
 - 🧠 Aprofundar conhecimentos em **desenvolvimento**
 - 📈 Atuar profissionalmente como **QA / Test Analyst**
-- 🔥 Criar projetos práticos e bem documentados
+- 🔥 Criar projetos 
 
 ---
 
 ## 📫 Contato
 
 - 🌐 GitHub: https://github.com/murilopinho
-- 💼 LinkedIn: *(adicione aqui, se desejar)*
+- 💼 LinkedIn: https://www.linkedin.com/in/murilo-de-oliveira-pinho-93580b303/
 
 ---
 
