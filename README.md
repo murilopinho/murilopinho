@@ -68,3 +68,76 @@ Aqui você encontrará projetos relacionados a:
 ---
 
 ⭐ *Qualidade, clareza e evolução contínua.*
+
+--------------------------------------------------------------------------------
+
+# 👋 Hi, I'm Murilo Pinho
+
+🎯 **Quality Assurance (QA) | Test Analyst**  
+📚 Student of **Systems Analysis and Development (ADS)**  
+🧪 Focused on **Software Quality, Manual Testing, BDD, and Automation**
+
+---
+
+## 🚀 About Me
+
+I am a technology professional in training, focused on **Quality Assurance (QA)**.  
+I work on creating and executing **test cases**, performing functional validations, regression testing, and clear documentation, always aiming to ensure system quality and reliability.
+
+I have experience in agile environments and I am continuously improving my skills in **test automation** and **software development**, applying QA best practices in my daily work.
+
+---
+
+## 🧪 QA Skills
+
+- ✔️ Manual Testing (Functional, Regression, Smoke)
+- ✔️ Test Cases using **BDD / Gherkin**
+- ✔️ Requirements Analysis and Business Rules
+- ✔️ Bug reporting and tracking
+- ✔️ Testing Web and Mobile applications (Android / iOS)
+- ✔️ Test evidence and validation cycles
+
+---
+
+## 🤖 Technologies & Tools
+
+**Languages & Tools:**
+- 💻 HTML | CSS | JavaScript
+- 🐍 Python (learning)
+- 🧪 Cypress (learning)
+- 🤖 Playwright (learning)
+- 🌐 Postman (API - basic)
+- 📊 Git | GitHub
+- 📋 Agile Methodologies (Scrum / Kanban)
+
+---
+
+## 📂 Repositories
+
+Here you will find projects related to:
+- 📌 **Personal projects (completed / in progress)**
+- 📌 **Academic projects (ADS)**
+- 📌 **Test automation studies**
+- 📌 **Machine learning projects**
+
+*(Repositories constantly evolving 🚧)*
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Improve in **test automation**
+- 🧠 Deepen knowledge in **software development**
+- 📈 Work professionally as a **QA / Test Analyst**
+- 🔥 Build impactful projects
+
+---
+
+## 📫 Contact
+
+- 🌐 GitHub: https://github.com/murilopinho
+- 💼 LinkedIn: https://www.linkedin.com/in/murilo-de-oliveira-pinho-93580b303/
+
+---
+
+⭐ *Quality, clarity, and continuous improvement.*
