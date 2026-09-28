@@ -1,143 +1,48 @@
-# 👋 Olá, eu sou o Murilo Pinho
+# Murilo Pinho
 
-🎯 **Quality Assurance (QA) | Analista de Testes**  
-📚 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-🧪 Foco em **Qualidade de Software, Testes Manuais, BDD e Automação**
+QA e dev em Brasília. Testo software desde o estágio no BRB Card e hoje também construo: sites, bot de WhatsApp e app desktop pra negócio local.
 
----
+**[murilopinho.com.br](https://murilopinho.com.br)** · [LinkedIn](https://www.linkedin.com/in/murilo-de-oliveira-pinho-93580b303/) · mmurilo.pinho@gmail.com · Aberto a vagas e projetos
 
-## 🚀 Sobre mim
+## O que eu fiz
 
-Sou um profissional em formação na área de tecnologia, com foco em **QA (Quality Assurance)**.  
-Atuo na criação e execução de **casos de teste**, validações funcionais, testes de regressão e documentação clara, sempre buscando garantir a qualidade e a confiabilidade dos sistemas.
+- **Sistema de uma clínica odontológica** (Águas Claras, DF). App desktop em Electron com bot de WhatsApp (Baileys) que atende paciente, e painel com conversas, agenda, documentos e orçamentos. Node, Express e SQLite por baixo.
+- **Sites pra negócio local** ([MP Soluções Digitais](https://murilopinho.com.br/case/mp)). HTML, CSS e JS sem framework, deploy na Vercel. Ex.: [Mirantes do Lago](https://murilopinho.com.br/case/mirantes).
+- **Mods de The Binding of Isaac** publicados na Steam Workshop: [Enemy Drop Loot V2](https://steamcommunity.com/sharedfiles/filedetails/?id=3786937566), [QoL Kit](https://steamcommunity.com/sharedfiles/filedetails/?id=3805423430), [No More Crash Builds](https://steamcommunity.com/sharedfiles/filedetails/?id=3808770484), [Pickup Merge](https://steamcommunity.com/sharedfiles/filedetails/?id=3808771551). Em Lua, na API do jogo.
+- **Fly Reflex.** O conectoma real da mosca-das-frutas (FlyWire) simulado como rede de neurônios, jogando Friday Night Funkin' sozinho, com o cérebro renderizado ao vivo na tela. Python.
 
-Tenho experiência em ambientes ágeis e sigo evoluindo meus conhecimentos em **automação de testes** e **desenvolvimento**, aplicando boas práticas de QA no dia a dia.
+## QA
 
----
+Estágio de QA no **BRB Card** (nov/2024 a abr/2026), em ambiente financeiro: casos de teste em BDD/Gherkin, regressão, smoke, testes de API e automação E2E. Certificado **ISTQB CTFL** e **CTFL-AT** (Agile Tester).
 
-## 🧪 Habilidades em QA
+Repositórios de teste aqui no perfil:
+- [cypress-ecommerce-suite](https://github.com/murilopinho/-cypress-ecommerce-suite-): E2E com Cypress, Page Object Model e CI no GitHub Actions
+- [postman-api-collection-professional](https://github.com/murilopinho/postman-api-collection-professional): coleções Postman com validação de schema, status e tempo via Newman
+- [test-data-factory](https://github.com/murilopinho/test-data-factory): fixtures com Faker.js pra Cypress e Postman
 
-- ✔️ Testes Manuais (Funcional, Regressão, Smoke)
-- ✔️ Casos de Teste em **BDD / Gherkin**
-- ✔️ Análise de Requisitos e Regras de Negócio
-- ✔️ Reporte e acompanhamento de bugs
-- ✔️ Testes em aplicações Web e Mobile (Android / iOS)
-- ✔️ Evidências de testes e ciclos de validação
+## Ferramentas
 
----
+Cypress · Playwright · Postman/Newman · Gherkin · JavaScript · Python · Lua · HTML/CSS · Electron · Git · GitHub Actions · Vercel · Linux
 
-## 🤖 Tecnologias e Ferramentas
+Análise e Desenvolvimento de Sistemas no SENAC. Inglês avançado, espanhol intermediário.
 
-**Linguagens & Ferramentas:**
-- 💻 HTML | CSS | JavaScript
-- 🐍 Python (em aprendizado)
-- 🧪 Cypress (estudos)
-- 🤖 Playwright (estudos)
-- 🌐 Postman (API - básico)
-- 📊 Git | GitHub
-- 📋 Metodologias Ágeis (Scrum / Kanban)
+<details>
+<summary><b>English</b></summary>
 
----
+<br>
 
-## 📂 Repositórios
+QA and developer in Brasília, Brazil. I've been testing software since my internship at BRB Card, and now I build too: websites, a WhatsApp bot and a desktop app for local businesses.
 
-Aqui você encontrará projetos relacionados a:
-- 📌 Prejetos **pessoais concluidos/em conclusão**
-- 📌 Projetos acadêmicos de **ADS**
-- 📌 Estudos de **automação de testes**
-- 📌 Projetos de machine learning
+**[murilopinho.com.br](https://murilopinho.com.br)** · [LinkedIn](https://www.linkedin.com/in/murilo-de-oliveira-pinho-93580b303/) · mmurilo.pinho@gmail.com · Open to jobs and projects
 
-*(Repositórios em constante evolução 🚧)*
+**What I've built**
+- **A dental clinic's system.** Electron desktop app with a WhatsApp bot (Baileys) that talks to patients, plus a dashboard for chats, schedule, documents and quotes. Node, Express and SQLite under the hood.
+- **Websites for local businesses.** Plain HTML, CSS and JS, deployed on Vercel.
+- **The Binding of Isaac mods** on the Steam Workshop (Lua): Enemy Drop Loot V2, QoL Kit, No More Crash Builds, Pickup Merge.
+- **Fly Reflex.** The real fruit fly connectome (FlyWire) simulated as a spiking network, playing Friday Night Funkin' on its own, with its brain rendered live on screen. Python.
 
----
+**QA.** Intern at **BRB Card** (Nov 2024 to Apr 2026), a financial company: BDD/Gherkin test cases, regression, smoke, API testing and E2E automation. **ISTQB CTFL** and **CTFL-AT** certified.
 
-## 🎯 Objetivos Atuais
+**Tools.** Cypress · Playwright · Postman/Newman · Gherkin · JavaScript · Python · Lua · HTML/CSS · Electron · Git · GitHub Actions · Vercel · Linux
 
-- 🚀 Evoluir em **automação de testes**
-- 🧠 Aprofundar conhecimentos em **desenvolvimento**
-- 📈 Atuar profissionalmente como **QA / Test Analyst**
-- 🔥 Criar projetos 
-
----
-
-## 📫 Contato
-
-- 🌐 GitHub: https://github.com/murilopinho
-- 💼 LinkedIn: https://www.linkedin.com/in/murilo-de-oliveira-pinho-93580b303/
-
----
-
-⭐ *Qualidade, clareza e evolução contínua.*
-
---------------------------------------------------------------------------------
-
-# 👋 Hi, I'm Murilo Pinho
-
-🎯 **Quality Assurance (QA) | Test Analyst**  
-📚 Student of **Systems Analysis and Development (ADS)**  
-🧪 Focused on **Software Quality, Manual Testing, BDD, and Automation**
-
----
-
-## 🚀 About Me
-
-I am a technology professional in training, focused on **Quality Assurance (QA)**.  
-I work on creating and executing **test cases**, performing functional validations, regression testing, and clear documentation, always aiming to ensure system quality and reliability.
-
-I have experience in agile environments and I am continuously improving my skills in **test automation** and **software development**, applying QA best practices in my daily work.
-
----
-
-## 🧪 QA Skills
-
-- ✔️ Manual Testing (Functional, Regression, Smoke)
-- ✔️ Test Cases using **BDD / Gherkin**
-- ✔️ Requirements Analysis and Business Rules
-- ✔️ Bug reporting and tracking
-- ✔️ Testing Web and Mobile applications (Android / iOS)
-- ✔️ Test evidence and validation cycles
-
----
-
-## 🤖 Technologies & Tools
-
-**Languages & Tools:**
-- 💻 HTML | CSS | JavaScript
-- 🐍 Python (learning)
-- 🧪 Cypress (learning)
-- 🤖 Playwright (learning)
-- 🌐 Postman (API - basic)
-- 📊 Git | GitHub
-- 📋 Agile Methodologies (Scrum / Kanban)
-
----
-
-## 📂 Repositories
-
-Here you will find projects related to:
-- 📌 **Personal projects (completed / in progress)**
-- 📌 **Academic projects (ADS)**
-- 📌 **Test automation studies**
-- 📌 **Machine learning projects**
-
-*(Repositories constantly evolving 🚧)*
-
----
-
-## 🎯 Current Goals
-
-- 🚀 Improve in **test automation**
-- 🧠 Deepen knowledge in **software development**
-- 📈 Work professionally as a **QA / Test Analyst**
-- 🔥 Build impactful projects
-
----
-
-## 📫 Contact
-
-- 🌐 GitHub: https://github.com/murilopinho
-- 💼 LinkedIn: https://www.linkedin.com/in/murilo-de-oliveira-pinho-93580b303/
-
----
-
-⭐ *Quality, clarity, and continuous improvement.*
+</details>
